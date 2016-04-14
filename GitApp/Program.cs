@@ -11,7 +11,11 @@ namespace GitApp
         static void Main(string[] args)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             Console.WriteLine("Pozdrav iz aplikacije od Marina Radoša koji ne zna broj indexa!");
+=======
+            Console.WriteLine("Pozdrav iz aplikacije od Marina Radoša!");
+>>>>>>> 70da515... Pozdrav commit
 =======
             Console.WriteLine("Pozdrav iz aplikacije od Marina Radoša!");
 >>>>>>> 70da515... Pozdrav commit
