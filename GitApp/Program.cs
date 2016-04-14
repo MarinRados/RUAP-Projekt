@@ -10,7 +10,7 @@ namespace GitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git!");
+            Console.WriteLine("Pozdrav iz aplikacije od Marina Radoša!");
         }
     }
 }
